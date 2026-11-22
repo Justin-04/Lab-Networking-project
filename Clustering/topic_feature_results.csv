@@ -1,0 +1,5 @@
+features,CV PR-AUC (train),test PR-AUC,test ROC-AUC
+static,0.043 ± 0.005,0.082,0.594
+static + topic,0.045 ± 0.007,0.065,0.601
+engagement + static,0.677 ± 0.066,0.685,0.945
+engagement + static + topic,0.673 ± 0.065,0.652,0.928
