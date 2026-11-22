@@ -1,0 +1,18 @@
+File name,Number of packets,Data size (bytes),Capture duration (seconds)
+pcaps/api_run1.pcap,3695,2769000,8.460222
+File name,Number of packets,Data size (bytes),Capture duration (seconds)
+pcaps/api_run2.pcap,3526,2725600,8.171871
+File name,Number of packets,Data size (bytes),Capture duration (seconds)
+pcaps/api_run3.pcap,1431,623866,8.296214
+File name,Number of packets,Data size (bytes),Capture duration (seconds)
+pcaps/bs4_run1.pcap,281,97620,35.635408
+File name,Number of packets,Data size (bytes),Capture duration (seconds)
+pcaps/bs4_run2.pcap,270,110904,32.974591
+File name,Number of packets,Data size (bytes),Capture duration (seconds)
+pcaps/bs4_run3.pcap,190,52499,35.665786
+File name,Number of packets,Data size (bytes),Capture duration (seconds)
+pcaps/selenium_run1.pcap,79865,91792375,99.822997
+File name,Number of packets,Data size (bytes),Capture duration (seconds)
+pcaps/selenium_run2.pcap,60821,70461215,160.576698
+File name,Number of packets,Data size (bytes),Capture duration (seconds)
+pcaps/selenium_run3.pcap,57803,63831651,101.616686

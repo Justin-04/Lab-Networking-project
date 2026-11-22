@@ -1,0 +1,61 @@
+rank,id,title,url,domain,score,author,comments,timestamp,created_utc,type
+1,50596133,"Toyota, Nissan, and Honda to standardize parts to lower costs",https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/,caranddriver.com,627,zdw,383,1795320296,2026-11-22 04:04:56,story
+2,50582069,Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades',https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib,theguardian.com,1089,rafaelc,231,1795208592,2026-11-20 21:03:12,story
+3,50533945,"A real Linux kernel, compiled to WebAssembly",https://github.com/pithings/unkernel,github.com,73,DonAtimator,19,1794933346,2026-11-17 16:35:46,story
+4,50589618,Lean verification of the Riemann Hypothesis,https://leanprover-community.github.io/blog/posts/riemann-hypothesis/,leanprover-community.github.io,1077,g-b-r,892,1795271805,2026-11-21 14:36:45,story
+5,50597743,Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts,https://arxiv.org/abs/2606.14068,arxiv.org,63,rzk,34,1795339116,2026-11-22 09:18:36,story
+6,50594911,Sandwich Simulator,https://stulle.app/,stulle.app,316,subdomain,108,1795306079,2026-11-22 00:07:59,story
+7,50566495,Self-hosted library branch over public web OPDS,https://joinmayberry.com/,joinmayberry.com,19,philips,2,1795122947,2026-11-19 21:15:47,story
+8,50591853,Inkling-2-Mini in 5.4 GB Memory,https://github.com/ShinMegamiBoson/lookatmyquant,github.com,483,k__,121,1795284139,2026-11-21 18:02:19,story
+9,50596664,Show HN: The Riemann Proof Handbook,https://github.com/tamnd/riemann-handbook,github.com,64,tamnd,31,1795326390,2026-11-22 05:46:30,story
+10,50588982,Detonating a pile of lead azide,https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really,science.org,628,beginning_end,396,1795267394,2026-11-21 13:23:14,story
+11,50595554,Data Processing Incidents on Inference Providers,https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/,openrouter.ai,175,sdko,67,1795313654,2026-11-22 02:14:14,story
+12,50583028,Getting the mind to steer the body to steer you,https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body,notnottalmud.substack.com,310,jger15,102,1795212665,2026-11-20 22:11:05,story
+13,50596155,Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow,https://github.com/EL4CTEO/fast-anything,github.com,59,BaselAshraf81,34,1795320609,2026-11-22 04:10:09,story
+14,50569846,If tiny 'primordial' black holes exist,https://phys.org/news/2026-11-tiny-primordial-black-holes.html,phys.org,44,wglb,23,1795145861,2026-11-20 03:37:41,story
+15,50587875,My monitor was cutting my download speed by 75%,https://blog.tymscar.com/posts/studiodisplayethernet/,blog.tymscar.com,605,soheilpro,279,1795257392,2026-11-21 10:36:32,story
+16,50596960,Notes on the discrete Fourier transform (DFT),https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/,eli.thegreenplace.net,36,kouosi,5,1795330345,2026-11-22 06:52:25,story
+17,50594132,PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors,https://github.com/sebaandrada-cell/PcapAnalyzer,github.com,127,sebaandrada,18,1795298998,2026-11-21 22:09:58,story
+18,50549457,String Art Font (2017),https://erikdemaine.org/fonts/stringart/,erikdemaine.org,4,akkartik,0,1795023777,2026-11-18 17:42:57,story
+19,50559820,Is 'fork' missing operation in sandboxes?,https://avrea.com/blog/avrea-sandboxes-computers-should-be-forkable,avrea.com,9,damezumari,6,1795094923,2026-11-19 13:28:43,story
+20,50593481,"Pandex – Official European Law for AI Agents, over MCP",https://www.pandex.io,pandex.io,105,vasie,26,1795294061,2026-11-21 20:47:41,story
+21,50560314,Split Radiance Cascades,https://www.jacktollenaar.top/articles/split-rc.html,jacktollenaar.top,43,ibobev,0,1795097313,2026-11-19 14:08:33,story
+22,50593737,Advice for the next 100 Rust GUIs,https://linebender.org/blog/next-100-guis/,linebender.org,189,raphlinus,80,1795295873,2026-11-21 21:17:53,story
+23,50597612,87% of the Anthropic power will come from gas and 11% from coal in 2028,https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/,betterdatacenterproject.com,203,happosai,293,1795337854,2026-11-22 08:57:34,story
+24,50592097,Upload2Shell (CVE-2026-125396),https://pwn.ai/upload2shell,pwn.ai,128,f311a,63,1795285769,2026-11-21 18:29:29,story
+25,50546587,LLMs can read and write executables byte by byte from a hex dump,https://sgiannopoulos.github.io/blog/machine-code-programming/,sgiannopoulos.github.io,266,fortran77,161,1795011358,2026-11-18 14:15:58,story
+26,50554572,Reversing the Next-Page Prefetcher in Skylake-X,"https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",devsh0.github.io,14,todsacerdoti,0,1795049405,2026-11-19 00:50:05,story
+27,50595537,The Mythology of Conscious AI,https://www.noemamag.com/the-mythology-of-conscious-ai/,noemamag.com,82,Anon84,176,1795313402,2026-11-22 02:10:02,story
+28,50587208,GnuPG Security Advisory for GPGME,https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html,lists.gnupg.org,259,gdgghhhhh,108,1795249978,2026-11-21 08:32:58,story
+29,50579568,Hurried Announcement: Alessandro Masullo GRH,https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/,math216.wordpress.com,2427,jasondavies,1181,1795199594,2026-11-20 18:33:14,story
+30,50591260,PostgreSQL Extensions in Go,https://jespino.github.io/gopgext/,jespino.github.io,158,valyala,28,1795280884,2026-11-21 17:08:04,story
+31,50574968,Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf],https://alpo.ge/remark.pdf,alpo.ge,2884,iamronaldo,2064,1795184181,2026-11-20 14:16:21,story
+32,50487155,Show HN: Compile the same source for GPUs and CPUs,https://github.com/ThrudTheBarbarian/xc,github.com,22,spacedcowboy,2,1794592422,2026-11-13 17:53:42,story
+33,50590441,Verification files for the Lean proof of the Riemann Hypothesis,https://math.mit.edu/~drew/grh/,math.mit.edu,119,Bluestein,40,1795276474,2026-11-21 15:54:34,story
+34,50590279,Show HN: Zero C# – C# without a runtime or GC,https://onurgumus.github.io/zero-csharp/index.html,onurgumus.github.io,163,reverseblade2,112,1795275549,2026-11-21 15:39:09,story
+35,50544428,Reaktiv Workbook – A spreadsheet where every cell is Python,https://workbook.bui.app/,workbook.bui.app,29,buibuibui,8,1794997482,2026-11-18 10:24:42,story
+36,50593679,Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers,https://tasklet.ai/careers,tasklet.ai,0,,0,1795295468,2026-11-21 21:11:08,job
+37,50576012,Slopstrap – Make your site look hastily vibecoded,https://slopstrap.mikelacher.com/,slopstrap.mikelacher.com,721,mlacher,132,1795188251,2026-11-20 15:24:11,story
+38,50553496,Pion Interceptor: WebRTC for Hackers,https://pion.ly/blog/pion-interceptor-webrtc-for-hackers/,pion.ly,16,Sean-Der,2,1795042271,2026-11-18 22:51:11,story
+39,50553223,"Shaping the Loops, Closing the Loops",https://revyl.com/blog/pattern-engineering/,revyl.com,27,based0x10,9,1795040944,2026-11-18 22:29:04,story
+40,50546495,Exponential Behavior in Magic: The Gathering,https://levineuwirth.org/essays/exponential-magic/,levineuwirth.org,110,neuwirth,69,1795010829,2026-11-18 14:07:09,story
+41,50532417,Tropical Rainforests Species may be surprisingly young,https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html,phys.org,52,PaulHoule,32,1794928134,2026-11-17 15:08:54,story
+42,50595816,Together.ai: Prompt Leakage for Requests,https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026,together.ai,34,Fe2O3,8,1795316847,2026-11-22 03:07:27,story
+43,50581260,Inkling 2 Mini,https://thinkingmachines.ai/news/inkling-2-mini/,thinkingmachines.ai,1424,jasondavies,288,1795205539,2026-11-20 20:12:19,story
+44,50583274,NINLIVE: The Nine Inch Nails live archive,https://ninlive.com/,ninlive.com,375,CharlesW,109,1795213847,2026-11-20 22:30:47,story
+45,50595940,Current Efforts Aren't Enough to Slow the AI Cyber Virus,https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus,bridgewater.com,12,DenisM,4,1795318128,2026-11-22 03:28:48,story
+46,50577991,I'm quite pleased by the tech architecture of my art website,https://klauria.tech/klauria-art/,klauria.tech,174,evakhoury,35,1795194219,2026-11-20 17:03:39,story
+47,50585376,Clojure will affect the way you think about programming (2017),https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/,eli.thegreenplace.net,197,sammatilda,92,1795228839,2026-11-21 02:40:39,story
+48,50586292,ClawDOS – An AI coding agent for DOS,http://ricapar.net/ClawDOS/,ricapar.net,166,Ricapar,52,1795239481,2026-11-21 05:38:01,story
+49,50595168,Leonida – PC Recompilation of the Xbox Version of GTA 6,https://github.com/ItsNotRexed/Leonida,github.com,171,ebrahimh,135,1795309046,2026-11-22 00:57:26,story
+50,50597156,A Slinky on an Escalator Is a Weirdly Good Test of LLM Intelligence,https://morethanamachine.com/posts/slinky-escalator-benchmark/,morethanamachine.com,6,reddmachine,1,1795332701,2026-11-22 07:31:41,story
+51,50541047,Show HN: An ASCII cell aquarium for your terminal,https://github.com/kborer/cells/,github.com,61,kborer,22,1794968309,2026-11-18 02:18:29,story
+52,50576232,Finite-time blow-up for the Navier–Stokes equations,https://github.com/tristanbuckmaster/navier-stokes/,github.com,319,trotro,108,1795188871,2026-11-20 15:34:31,story
+53,50574264,Deterministic Simulation Testing Is for Everyone,https://outdata.net/blog/261120,outdata.net,81,pgraug,14,1795180788,2026-11-20 13:19:48,story
+54,50575644,Why there are still no non-WebKit browsers on iOS,https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/,blog.mozilla.org,566,lapcat,298,1795187011,2026-11-20 15:03:31,story
+55,50586648,Surprisingly Adorable Insect Portraits,https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/,amateurphotographer.com,162,NordStreamYacht,38,1795243454,2026-11-21 06:44:14,story
+56,50583768,Sir Brian May adds new dimension to Hera asteroid,https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid,esa.int,168,mooreds,39,1795216784,2026-11-20 23:19:44,story
+57,50581110,DreamCoder: Coding harness and IDE from the author of Mastering Emacs,https://www.masteringemacs.org/article/announcing-dreamcoder,masteringemacs.org,276,facundo_olano,119,1795205039,2026-11-20 20:03:59,story
+58,50559295,Unit-testing in the Ü programming language,https://panzerschrek.github.io/U-00DC-Sprache-site/2026/11/18/unit-testing.html,panzerschrek.github.io,11,Panzerschrek,3,1795091694,2026-11-19 12:34:54,story
+59,50583761,"Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",https://news.ycombinator.com/item?id=50583761,news.ycombinator.com,695,LetThingsBeDiff,777,1795216712,2026-11-20 23:18:32,story
+60,50495392,Why the Airbus A321XLR often gets stuck climbing for first few hours of flight,https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/,simpleflying.com,144,edward,111,1794647604,2026-11-14 09:13:24,story
